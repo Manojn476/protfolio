@@ -1,0 +1,23 @@
+export const personal = {
+  name: "Manoj Kumar N",
+  firstName: "Manoj",
+  initials: "MN",
+  title: "AI & Data Science Engineering Student",
+  tagline: "I build intelligent systems that turn data into decisions.",
+  subtitle: "AI & Data Science Engineering Student · BMSCE '27 · Bangalore",
+  headline: "Engineering student who doesn't just learn technologies — I build systems with them.",
+  location: "Bangalore, Karnataka, India",
+  email: "manojk.n476@gmail.com",
+  phone: "+91 6363988355",
+  university: "BMS College of Engineering",
+  universityShort: "BMSCE",
+  degree: "B.E. in Artificial Intelligence & Data Science",
+  graduationYear: 2027,
+  yearOfStudy: "4th Year",
+  cgpa: "8.41",
+  cgpaScale: "10",
+  semester: "5th",
+  enrollmentYear: 2023,
+  avatarUrl: "", // User will provide later
+  resumeUrl: "/manoj_resume.pdf",
+} as const;
